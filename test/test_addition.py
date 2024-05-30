@@ -1,6 +1,6 @@
 from fastapi.testclient import TestClient
 from app.main import app
-from app.services.addition_service import process_addition
+from app.services.add_service import process_addition
 import pytest
 
 client = TestClient(app)

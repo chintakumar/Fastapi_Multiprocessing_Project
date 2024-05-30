@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from app.controllers.addition_controller import router
+from app.controllers.add_controller import router
 from logging_config import configure_logging
 
 configure_logging()

@@ -1,6 +1,6 @@
 from fastapi import APIRouter, HTTPException
-from app.models.addition_models import RequestModel, ResponseModel
-from app.services.addition_service import process_addition
+from app.models.add_models import RequestModel, ResponseModel
+from app.services.add_service import process_addition
 from datetime import datetime
 import logging
 

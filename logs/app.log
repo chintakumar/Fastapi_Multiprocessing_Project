@@ -4,3 +4,6 @@
 2024-05-29 23:20:25,756 - app.controllers.addition_controller - INFO - Processing request with batchid: id0101 started at 2024-05-29T23:20:25.756881
 2024-05-29 23:20:27,060 - app.controllers.addition_controller - INFO - Processing request with batchid: id0101 completed at 2024-05-29T23:20:27.060887
 2024-05-29 23:20:27,061 - app.controllers.addition_controller - INFO - Request with batchid: id0101 processed successfully
+2024-05-30 11:13:50,698 - app.controllers.addition_controller - INFO - Processing request with batchid: id0102 started at 2024-05-30T11:13:50.698838
+2024-05-30 11:13:52,507 - app.controllers.addition_controller - INFO - Processing request with batchid: id0102 completed at 2024-05-30T11:13:52.507576
+2024-05-30 11:13:52,512 - app.controllers.addition_controller - INFO - Request with batchid: id0102 processed successfully
